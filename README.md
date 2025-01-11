@@ -1,3 +1,8 @@
+Backend Task
+Data Source
+THIRD PARTY API URL : https://s3.amazonaws.com/roxiler.com/product_transaction.json
+REQUEST METHOD : GET
+RESPONSE FORMAT : JSON
 Backend Task Overview
 
 To create the backend for the Roxiler System Assessment, we will implement several APIs to handle data initialization, transaction listing, statistics, and chart data. Below is a structured approach to each task.
